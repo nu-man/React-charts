@@ -1,0 +1,19 @@
+.sidebar {
+    background-color: #f8f9fa;
+    
+    padding: 5px;
+  }
+  
+  .sidebar h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .sidebar .nav-link {
+    color: #000;
+  }
+  
+  .sidebar .nav-link.active {
+    font-weight: bold;
+  }
+  
